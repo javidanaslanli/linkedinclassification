@@ -8,6 +8,14 @@ A machine learning system that classifies LinkedIn job titles into **seniority l
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javidanaslanli/linkedinclassification/blob/main/notebook/LinkedInClassification.ipynb)
 
+
+## Project Files
+
+Access the full dataset and supporting materials here:
+
+🔗 [Google Drive – Capstone Project Folder](https://drive.google.com/drive/folders/18GTTqHFBUde-JM9nLHL-8hW7RfMTqv0I?usp=drive_link)
+
+
 ## 📊 Results
 
 | Task | Accuracy | F1 Macro | F1 Weighted |
@@ -51,28 +59,6 @@ linkedin-classification/
 ```
 
 ---
-
-## 📥 Full Project Download
-
-**[Google Drive - All Files (Data, Models, Report)]((https://drive.google.com/drive/folders/18GTTqHFBUde-JM9nLHL-8hW7RfMTqv0I?usp=drive_link))**
-```
-
----
-
-## Getting the Link ID
-
-Your Google Drive link looks like:
-```
-https://drive.google.com/drive/folders/1ABC123xyz?usp=sharing
-                                        ↑
-                                   This is the FOLDER_ID
-```
-
-For files:
-```
-https://drive.google.com/file/d/1ABC123xyz/view?usp=sharing
-                                ↑
-                           This is the FILE_ID
 
 
 ```
