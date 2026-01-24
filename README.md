@@ -10,8 +10,8 @@ A machine learning system that classifies LinkedIn job titles into **seniority l
 
 | Task | Accuracy | F1 Macro | F1 Weighted |
 |------|----------|----------|-------------|
-| **Seniority** | 70.92% | 0.635 | 0.732 |
-| **Department** | 67.36% | 0.655 | 0.688 |
+| **Seniority** | 65.90% | 61.06% | 69.00% |
+| **Department** | 73.85% | 66.47% | 74.79% |
 
 ---
 
