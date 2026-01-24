@@ -197,6 +197,8 @@ File: `testdata.txt`
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javidanaslanli/linkedinclassification/blob/main/notebook/LinkedInClassification.ipynb)
+
 ## 📄 License
 
 MIT License - Academic project for Julius-Maximilians-Universität Würzburg
