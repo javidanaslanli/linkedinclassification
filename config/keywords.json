@@ -1,0 +1,59 @@
+{
+  "seniority": {
+    "Management": {
+      "keywords": ["ceo", "cfo", "cto", "coo", "cmo", "cio", "chro", "chief executive", "chief financial", "chief technology", "chief operating", "founder", "co-founder", "cofounder", "owner", "inhaber", "president", "managing director", "geschäftsführer", "vorstand", "gesellschafter", "prokurist", "pdg", "président", "directeur général", "gérant", "fondateur", "partner", "managing partner", "general manager"],
+      "priority": 1
+    },
+    "Director": {
+      "keywords": ["director", "direktor", "directeur", "directrice", "vp of", "vice president of"],
+      "exclude": ["managing director", "executive director"],
+      "priority": 2
+    },
+    "Lead": {
+      "keywords": ["head of", "team lead", "tech lead", "technical lead", "lead engineer", "lead developer", "lead architect", "engineering lead", "product lead", "leiter", "leiterin", "abteilungsleiter", "bereichsleiter", "teamleiter", "gruppenleiter", "chef de", "responsable", "supervisor"],
+      "priority": 3
+    },
+    "Senior": {
+      "keywords": ["senior", "sr.", "sr ", "principal", "staff engineer", "staff developer", "expert", "fachexperte", "spezialist"],
+      "priority": 4
+    },
+    "Junior": {
+      "keywords": ["junior", "jr.", "jr ", "intern", "internship", "trainee", "apprentice", "praktikant", "praktikantin", "werkstudent", "werkstudentin", "azubi", "auszubildende", "volontär", "stagiaire", "alternant", "apprenti", "graduate", "entry level", "entry-level"],
+      "priority": 5
+    }
+  },
+  "department": {
+    "Information Technology": {
+      "keywords": ["software", "developer", "entwickler", "programmer", "programmierer", "engineer", "engineering", "data scientist", "data engineer", "data analyst", "machine learning", "ml engineer", "ai engineer", "devops", "cloud", "backend", "frontend", "full stack", "fullstack", "web developer", "mobile developer", "ios developer", "android developer", "qa engineer", "test engineer", "quality assurance", "system administrator", "sysadmin", "network engineer", "security engineer", "cybersecurity", "database", "dba", "informatik", "it specialist", "it manager", "cto", "chief technology"]
+    },
+    "Sales": {
+      "keywords": ["sales", "vertrieb", "verkauf", "account executive", "account manager", "key account", "inside sales", "outside sales", "field sales", "sales engineer", "sales representative", "sales consultant", "business development representative", "bdr", "sdr", "commercial manager", "vendeur", "commercial"],
+      "exclude": ["presales"]
+    },
+    "Marketing": {
+      "keywords": ["marketing", "brand manager", "brand marketing", "seo", "sem", "content marketing", "digital marketing", "social media manager", "communications", "pr manager", "public relations", "event manager", "campaign manager", "growth marketing", "cmo", "chief marketing"]
+    },
+    "Human Resources": {
+      "keywords": ["human resources", "hr manager", "hr director", "hr business partner", "recruiter", "recruiting", "recruitment", "talent acquisition", "talent manager", "people operations", "people ops", "compensation", "payroll", "personalleiter", "personalsachbearbeiter", "personalreferent", "chro"]
+    },
+    "Consulting": {
+      "keywords": ["consultant", "consulting", "berater", "beratung", "advisory", "advisor", "strategy consultant", "management consultant", "unternehmensberater", "strategieberater"]
+    },
+    "Project Management": {
+      "keywords": ["project manager", "program manager", "portfolio manager", "projektmanager", "projektleiter", "product manager", "product owner", "produktmanager", "scrum master", "agile coach", "delivery manager", "release manager", "pmo"]
+    },
+    "Business Development": {
+      "keywords": ["business development manager", "bd manager", "partnership manager", "strategic partnership", "alliance manager", "channel manager", "expansion manager"],
+      "exclude": ["business development representative", "bdr"]
+    },
+    "Customer Support": {
+      "keywords": ["customer service", "customer support", "customer success", "technical support", "support engineer", "support specialist", "help desk", "service desk", "client services", "kundenberater", "kundenbetreuer", "kundenservice"]
+    },
+    "Administrative": {
+      "keywords": ["office manager", "executive assistant", "personal assistant", "administrative assistant", "admin assistant", "secretary", "sekretär", "sekretärin", "receptionist", "office administrator", "bürokaufmann", "bürokauffrau", "assistenz"]
+    },
+    "Purchasing": {
+      "keywords": ["purchasing", "procurement", "einkauf", "einkäufer", "einkaufsleiter", "buyer", "strategic buyer", "sourcing", "sourcing manager", "supply chain", "vendor manager", "category manager", "beschaffung"]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "seniority": {
+    "Management": {
+      "concept_text": "Executive leadership and company ownership. C-level officers (CEO, CFO, CTO), founders, owners, managing directors, board members, and partners who make strategic decisions and run organizations.",
+      "examples": ["CEO", "Chief Executive Officer", "Founder", "Managing Director", "Geschäftsführer", "Vorstand", "Owner", "Partner"]
+    },
+    "Director": {
+      "concept_text": "Senior department leaders who oversee business functions and report to executives. Directors of sales, marketing, engineering, finance, and other departments. Vice presidents of specific areas.",
+      "examples": ["Director of Engineering", "Sales Director", "Marketing Director", "VP Sales", "Finance Director", "Direktor"]
+    },
+    "Lead": {
+      "concept_text": "Team leaders and technical leads who manage groups of professionals. Head of departments, team leads, tech leads, engineering leads, group leaders, and supervisors with direct reports.",
+      "examples": ["Team Lead", "Tech Lead", "Head of Product", "Engineering Lead", "Teamleiter", "Abteilungsleiter"]
+    },
+    "Senior": {
+      "concept_text": "Experienced individual contributors with deep expertise. Senior engineers, senior analysts, senior consultants, principal and staff level roles with significant experience but typically no direct reports.",
+      "examples": ["Senior Software Engineer", "Senior Consultant", "Principal Engineer", "Staff Developer", "Senior Analyst"]
+    },
+    "Professional": {
+      "concept_text": "Standard professional roles without seniority modifiers. Regular engineers, analysts, managers, specialists, and coordinators at mid-career level performing core job functions.",
+      "examples": ["Software Engineer", "Business Analyst", "Marketing Manager", "Project Manager", "Consultant", "Specialist"]
+    },
+    "Junior": {
+      "concept_text": "Entry-level positions and those starting their careers. Interns, trainees, apprentices, junior roles, graduates, working students, and those in training programs learning the profession.",
+      "examples": ["Junior Developer", "Intern", "Trainee", "Praktikant", "Werkstudent", "Azubi", "Graduate"]
+    }
+  },
+  "department": {
+    "Information Technology": {
+      "concept_text": "Technology and software development roles. Software engineers, developers, data scientists, DevOps engineers, IT support, system administrators, network engineers, and technical specialists who build and maintain software systems.",
+      "examples": ["Software Engineer", "Data Scientist", "DevOps Engineer", "Full Stack Developer", "System Administrator"]
+    },
+    "Sales": {
+      "concept_text": "Revenue generation and client acquisition. Sales representatives, account executives, account managers, sales managers, and commercial roles focused on selling products and services to customers.",
+      "examples": ["Sales Manager", "Account Executive", "Key Account Manager", "Sales Representative", "Vertriebsmitarbeiter"]
+    },
+    "Marketing": {
+      "concept_text": "Brand promotion and market communication. Marketing managers, brand managers, digital marketers, content creators, social media managers, PR professionals, and those driving awareness and engagement.",
+      "examples": ["Marketing Manager", "Brand Manager", "Digital Marketing Specialist", "Content Manager", "Social Media Manager"]
+    },
+    "Human Resources": {
+      "concept_text": "People management and talent acquisition. HR managers, recruiters, talent acquisition specialists, people operations, compensation managers, and training professionals who manage the employee lifecycle.",
+      "examples": ["HR Manager", "Recruiter", "Talent Acquisition Specialist", "People Operations Manager", "HR Business Partner"]
+    },
+    "Consulting": {
+      "concept_text": "Advisory and professional services. Management consultants, strategy consultants, business consultants, IT consultants working at consulting firms providing expert advice to client organizations.",
+      "examples": ["Management Consultant", "Strategy Consultant", "Business Consultant", "Senior Consultant", "Berater"]
+    },
+    "Project Management": {
+      "concept_text": "Project and product coordination. Project managers, program managers, product managers, product owners, scrum masters, and delivery managers who coordinate work and ensure successful delivery.",
+      "examples": ["Project Manager", "Product Manager", "Program Manager", "Scrum Master", "Product Owner", "Projektleiter"]
+    },
+    "Business Development": {
+      "concept_text": "Strategic growth and partnerships. Business development managers, partnership managers, alliance managers focused on expansion, new markets, and strategic business relationships.",
+      "examples": ["Business Development Manager", "Partnership Manager", "Strategic Alliance Manager", "Growth Manager"]
+    },
+    "Customer Support": {
+      "concept_text": "Customer service and technical support. Customer service representatives, support specialists, customer success managers, help desk analysts, and service roles focused on customer satisfaction.",
+      "examples": ["Customer Success Manager", "Support Specialist", "Customer Service Representative", "Technical Support Engineer"]
+    },
+    "Administrative": {
+      "concept_text": "Office administration and executive support. Office managers, executive assistants, administrative assistants, secretaries, and receptionists who manage office operations and support executives.",
+      "examples": ["Office Manager", "Executive Assistant", "Administrative Assistant", "Secretary", "Receptionist"]
+    },
+    "Purchasing": {
+      "concept_text": "Procurement and supply chain. Purchasing managers, procurement specialists, buyers, sourcing managers, and supply chain professionals who manage vendor relationships and purchasing.",
+      "examples": ["Purchasing Manager", "Procurement Specialist", "Buyer", "Sourcing Manager", "Einkäufer"]
+    },
+    "Other": {
+      "concept_text": "Roles that do not fit into specific departments above. Includes finance, accounting, legal, medical, education, research, operations, and general management roles not covered by other categories.",
+      "examples": ["Accountant", "Controller", "Lawyer", "Doctor", "Teacher", "Researcher", "Operations Manager", "CFO"]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seniority_titles": {
+    "Management": [
+      "CEO", "CFO", "CTO", "COO", "CMO", "CIO", "CHRO",
+      "Chief Executive Officer", "Chief Financial Officer", "Chief Technology Officer",
+      "Managing Director", "General Manager", "President",
+      "Founder", "Co-Founder", "Owner", "Partner", "Board Member",
+      "Geschäftsführer", "Vorstand", "Inhaber", "Gesellschafter",
+      "PDG", "Président", "Directeur Général", "Fondateur"
+    ],
+    "Director": [
+      "Director", "Director of Sales", "Director of Marketing", "Director of Engineering",
+      "Sales Director", "Marketing Director", "Finance Director", "HR Director",
+      "Technical Director", "Creative Director", "Operations Director",
+      "VP Sales", "VP Marketing", "VP Engineering", "Vice President",
+      "Direktor", "Directeur", "Directrice"
+    ],
+    "Lead": [
+      "Head of Engineering", "Head of Sales", "Head of Marketing", "Head of Product",
+      "Team Lead", "Tech Lead", "Technical Lead", "Engineering Lead",
+      "Lead Engineer", "Lead Developer", "Lead Designer", "Lead Analyst",
+      "Leiter", "Leiterin", "Abteilungsleiter", "Teamleiter",
+      "Chef de Projet", "Responsable", "Supervisor"
+    ],
+    "Senior": [
+      "Senior Software Engineer", "Senior Developer", "Senior Analyst",
+      "Senior Consultant", "Senior Manager", "Senior Architect",
+      "Senior Data Scientist", "Senior Product Manager",
+      "Principal Engineer", "Principal Consultant", "Principal Architect",
+      "Staff Engineer", "Staff Developer", "Senior Berater"
+    ],
+    "Professional": [
+      "Software Engineer", "Developer", "Data Scientist", "Data Analyst",
+      "Product Manager", "Project Manager", "Business Analyst",
+      "Marketing Manager", "Sales Manager", "Account Manager",
+      "Consultant", "Analyst", "Designer", "Architect",
+      "Entwickler", "Berater", "Spezialist"
+    ],
+    "Junior": [
+      "Junior Developer", "Junior Engineer", "Junior Analyst",
+      "Junior Consultant", "Junior Designer",
+      "Intern", "Trainee", "Apprentice", "Graduate",
+      "Praktikant", "Praktikantin", "Werkstudent", "Werkstudentin",
+      "Azubi", "Stagiaire", "Alternant"
+    ]
+  },
+  "department_titles": {
+    "Information Technology": [
+      "Software Engineer", "Software Developer", "Full Stack Developer",
+      "Backend Developer", "Frontend Developer", "Web Developer",
+      "Data Scientist", "Data Engineer", "Data Analyst", "ML Engineer",
+      "DevOps Engineer", "Cloud Engineer", "System Administrator",
+      "QA Engineer", "IT Manager", "Entwickler", "Programmierer"
+    ],
+    "Sales": [
+      "Sales Representative", "Sales Manager", "Account Executive",
+      "Account Manager", "Key Account Manager", "Sales Director",
+      "Inside Sales", "Regional Sales Manager", "Sales Consultant",
+      "Vertriebsmitarbeiter", "Verkäufer"
+    ],
+    "Marketing": [
+      "Marketing Manager", "Marketing Director", "Brand Manager",
+      "Digital Marketing Manager", "Content Marketing Manager",
+      "SEO Specialist", "Social Media Manager", "PR Manager"
+    ],
+    "Human Resources": [
+      "HR Manager", "HR Director", "HR Business Partner",
+      "Recruiter", "Talent Acquisition Specialist",
+      "People Operations Manager", "Training Manager",
+      "Personalleiter", "Personalsachbearbeiter"
+    ],
+    "Consulting": [
+      "Consultant", "Management Consultant", "Strategy Consultant",
+      "IT Consultant", "Business Consultant", "Senior Consultant",
+      "Berater", "Unternehmensberater"
+    ],
+    "Project Management": [
+      "Project Manager", "Program Manager", "Product Manager",
+      "Product Owner", "Scrum Master", "Delivery Manager",
+      "Projektmanager", "Projektleiter"
+    ],
+    "Business Development": [
+      "Business Development Manager", "BD Manager",
+      "Partnership Manager", "Alliance Manager", "Growth Manager"
+    ],
+    "Customer Support": [
+      "Customer Service Representative", "Customer Support Specialist",
+      "Customer Success Manager", "Technical Support Engineer",
+      "Kundenberater", "Kundenbetreuer"
+    ],
+    "Administrative": [
+      "Office Manager", "Executive Assistant", "Personal Assistant",
+      "Administrative Assistant", "Secretary", "Receptionist",
+      "Bürokaufmann", "Sekretärin"
+    ],
+    "Purchasing": [
+      "Purchasing Manager", "Procurement Manager", "Buyer",
+      "Sourcing Manager", "Supply Chain Manager",
+      "Einkäufer", "Einkaufsleiter"
+    ],
+    "Other": [
+      "Accountant", "Controller", "Financial Analyst", "Auditor",
+      "Lawyer", "Legal Counsel", "Doctor", "Nurse",
+      "Teacher", "Professor", "Researcher", "Operations Manager"
+    ]
+  }
+}
