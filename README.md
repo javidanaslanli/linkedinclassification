@@ -88,7 +88,7 @@ My Drive/
 2. File → Upload notebook
 3. Select `notebooks/LinkedInClassification.ipynb`
 4. **Important:** Change runtime to GPU
-   - Runtime → Change runtime type → T4 GPU → Save
+   - Runtime → Change runtime type → T4 GPU → Save (Or any GPU)
 
 ### Step 4: Run the Notebook
 
