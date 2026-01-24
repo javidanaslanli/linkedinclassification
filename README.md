@@ -6,6 +6,8 @@ A machine learning system that classifies LinkedIn job titles into **seniority l
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javidanaslanli/linkedinclassification/blob/main/notebook/LinkedInClassification.ipynb)
+
 ## 📊 Results
 
 | Task | Accuracy | F1 Macro | F1 Weighted |
@@ -197,7 +199,7 @@ File: `testdata.txt`
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javidanaslanli/linkedinclassification/blob/main/notebook/LinkedInClassification.ipynb)
+
 
 ## 📄 License
 
