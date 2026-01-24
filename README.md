@@ -52,6 +52,15 @@ linkedin-classification/
 
 ---
 
+## 📥 Full Project Download
+
+**[Google Drive - All Files (Data, Models, Report)](## 📥 Full Project Download
+
+**[Google Drive - All Files (Data, Models, Report)](https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing)**
+
+
+```
+
 ## 🚀 Quick Start: Google Colab
 
 ### Step 1: Prepare Google Drive
