@@ -61,7 +61,7 @@ linkedin-classification/
 ---
 
 
-```
+
 
 ## 🚀 Quick Start: Google Colab
 
