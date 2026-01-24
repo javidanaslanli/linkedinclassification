@@ -54,7 +54,7 @@ linkedin-classification/
 
 ## 📥 Full Project Download
 
-**[Google Drive - All Files (Data, Models, Report)]([https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing](https://drive.google.com/drive/folders/18GTTqHFBUde-JM9nLHL-8hW7RfMTqv0I?usp=drive_link))**
+**[Google Drive - All Files (Data, Models, Report)]((https://drive.google.com/drive/folders/18GTTqHFBUde-JM9nLHL-8hW7RfMTqv0I?usp=drive_link))**
 ```
 
 ---
