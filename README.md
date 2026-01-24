@@ -115,7 +115,7 @@ My Drive/
 
 ```bash
 # Clone or download repository
-git clone https://github.com/YOUR_USERNAME/linkedin-classification.git
+git clone https://github.com/javidanaslanli/linkedin-classification.git
 cd linkedin-classification
 
 # Create virtual environment
