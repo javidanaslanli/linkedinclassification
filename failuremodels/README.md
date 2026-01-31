@@ -1,1 +1,1 @@
-This notebooks are demo version so there could be inconsistecies
+Theses notebooks are demo versions, so there could be inconsistecies
